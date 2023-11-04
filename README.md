@@ -1,1 +1,1 @@
-this is version with boost::test
+cmake + googletest + boosttest
